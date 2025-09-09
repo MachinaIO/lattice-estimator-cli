@@ -1,4 +1,4 @@
-# lattice_cli: CLI for estimate_rop_secpar
+# lattice-estimator-cli: CLI for Lattice Estimator
 
 This CLI is for calling [lattice estimator](https://github.com/malb/lattice-estimator). It estimates the security parameter from ROP for the given parameters.
 
