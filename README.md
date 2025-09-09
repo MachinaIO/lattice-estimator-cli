@@ -1,8 +1,6 @@
 # lattice_cli: CLI for estimate_rop_secpar
 
-This CLI is specialized to call a single function:
-`lattice_cli.core.estimate_rop_secpar`. It estimates the security parameter
-(in bits) from ROP for LWE-like parameters.
+This CLI is for calling [lattice estimator](https://github.com/malb/lattice-estimator). It estimates the security parameter from ROP for the given parameters.
 
 ## Usage
 
